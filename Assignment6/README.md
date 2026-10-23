@@ -28,13 +28,14 @@
 
 <img width="954" height="1009" alt="image" src="https://github.com/user-attachments/assets/326fd657-07dc-459c-a4a6-8f0d499553c8" />
 
-<img width="730" height="648" alt="image" src="https://github.com/user-attachments/assets/0b8801e6-9365-4433-bcbb-f8699cfada8e" />
+<img width="730" height="623" alt="WhatsApp Image 2026-10-23 at 17 20 45" src="https://github.com/user-attachments/assets/cdd45246-d1cc-41d5-8a99-dbdd207d3350" />
 
-<img width="711" height="592" alt="image" src="https://github.com/user-attachments/assets/68676b4b-e360-45d8-98d9-a935d40380c5" />
+<img width="711" height="531" alt="WhatsApp Image 2026-10-23 at 17 22 57" src="https://github.com/user-attachments/assets/f7f61bad-ff99-4225-a766-7fbf9e0a0a16" />
 
-<img width="723" height="642" alt="image" src="https://github.com/user-attachments/assets/3f16063a-f776-4736-b0f0-529da1527d26" />
+<img width="952" height="427" alt="WhatsApp Image 2026-10-23 at 17 24 10" src="https://github.com/user-attachments/assets/489ec72a-7570-4ca3-914c-ae9961755f45" />
 
-<img width="952" height="1008" alt="image" src="https://github.com/user-attachments/assets/189c89aa-9fe7-4724-88a3-f8124340e8a0" />
+
+
 
 
 
